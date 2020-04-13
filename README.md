@@ -9,6 +9,7 @@ Hi, I'm Taiane Borges, data science student, i love books, chocolat, animal and 
 ## Linguagens de Programação
 
 Gosto de programar em:
--Python
--JavaScript
--Java
+
+- Python
+- JavaScript
+- Java
